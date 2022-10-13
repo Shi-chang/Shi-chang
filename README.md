@@ -1,16 +1,20 @@
-### Hi there 👋
+### About Me
+Hi there. Welcome to my github! 👋👋👋
 
-<!--
-**Shi-chang/Shi-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shichang Ye. I’m currently on the MSCS program at Northeastern University, and I'm expected to graduate in Dec. 2023.
 
-Here are some ideas to get you started:
+As shown in the repos, I have developed a full stack web application and some other interesting apps that help build my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a list of my skill sets:
+
+*  **Programming Languages:** Java, Python, C, Go, C++
+*  **Web Development:**
+    * **Frontend:** HTML/CSS/JavaScript, React
+    * **Backend:** Express, Node.js
+    * **Database:** MySQL, MongoDB, Mongoose, Prisma
+    * **Deployment:** Heroku
+
+### Contact Me
+Email: ye.shic@northeastern.edu
+
+LinkedIn: https://linkedin.com/in/shichang-ye-276668245
