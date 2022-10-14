@@ -7,7 +7,7 @@ As shown in the repos, I have developed a full stack web application and some ot
 
 Here is a list of my skill sets:
 
-*  **Programming Languages:** Java, Python, C, Go, C++
+*  **Programming Languages:** Java, Python, C, C++
 *  **Web Development:**
     * **Frontend:** HTML/CSS/JavaScript, React
     * **Backend:** Express, Node.js
