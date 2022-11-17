@@ -13,32 +13,23 @@ Here is a list of my skill sets:
     * **Backend:** Express, Node.js
     * **Database:** MySQL, MongoDB, Mongoose, Prisma
     * **Deployment:** Heroku
-
+*  **Data Analysis:**
+        R, RStudio
 
 Here is a list of courses that I have taken:
 
-From the University:
+* From the University:
+   * CS 5001 Intensive Foundations of CS (Python)
+   * CS 5004 Object Oriented Design (Java)
+   * CS 5008 Data Structures, Algorithms, and Their Applications Within Computer Systems (C)
+   * CS 5610 Web Development (CSS, HTML, JavaScript, React, Node.js, Express, MySQL, MongoDB, Prisma, Mongoose)
+   * CS 5200 Database Management Systems (Sqlite, MySQL, R, RStudio)
+   * CS 5800 Algorithms (Java)
 
-      CS 5001 Intensive Foundations of CS (Python)
-      
-      CS 5004 Object Oriented Design (Java)
-      
-      CS 5008 Data Structures, Algorithms, and Their Applications Within Computer Systems (C)
-      
-      CS 5610 Web Development (CSS, HTML, JavaScript, React, Node.js, Express, MySQL, MongoDB, Prisma, Mongoose)
-      
-      CS 5200 Database Management Systems (Sqlite, MySQL, R, RStudio)
-      
-      CS 5800 Algorithms (Java)
-
-From online resources:
-
-      MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
-      
-      Data Structures and Algorithms
-      
-      Database with MySQL
-
+* From online resources:
+   * MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
+   * Data Structures and Algorithms
+   * Database with MySQL
 
 ### Contact Me
 Email: ye.shic@northeastern.edu
