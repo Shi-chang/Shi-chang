@@ -5,12 +5,15 @@ My name is Shichang Ye. I’m currently on the MSCS program at Northeastern Univ
 
 As shown in the repos, I have developed a full stack web application and some other interesting apps that help build my programming skills.
 
+Here is a list of my skill sets:
+
 *  **Programming Languages:** Java, JavaScript, Python, C, C++
 *  **Web Development:**
     * **Frontend:** HTML/CSS/JavaScript, React
     * **Backend:** Express, Node.js
     * **Database:** MySQL, MongoDB, Mongoose, Prisma
     * **Deployment:** Heroku
+
 
 Here is a list of courses that I have taken:
 
@@ -36,14 +39,6 @@ From online resources:
       
       Database with MySQL
 
-Here is a list of my skill sets:
-
-*  **Programming Languages:** Java, JavaScript, Python, C, C++
-*  **Web Development:**
-    * **Frontend:** HTML/CSS/JavaScript, React
-    * **Backend:** Express, Node.js
-    * **Database:** MySQL, MongoDB, Mongoose, Prisma
-    * **Deployment:** Heroku
 
 ### Contact Me
 Email: ye.shic@northeastern.edu
