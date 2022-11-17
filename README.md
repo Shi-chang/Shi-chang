@@ -5,9 +5,17 @@ My name is Shichang Ye. I’m currently on the MSCS program at Northeastern Univ
 
 As shown in the repos, I have developed a full stack web application and some other interesting apps that help build my programming skills.
 
+*  **Programming Languages:** Java, JavaScript, Python, C, C++
+*  **Web Development:**
+    * **Frontend:** HTML/CSS/JavaScript, React
+    * **Backend:** Express, Node.js
+    * **Database:** MySQL, MongoDB, Mongoose, Prisma
+    * **Deployment:** Heroku
+
 Here is a list of courses that I have taken:
 
 From the University:
+
       CS 5001 Intensive Foundations of CS (Python)
       
       CS 5004 Object Oriented Design (Java)
@@ -21,17 +29,12 @@ From the University:
       CS 5800 Algorithms (Java)
 
 From online resources:
+
       MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
+      
       Data Structures and Algorithms
+      
       Database with MySQL
-
-*  **Programming Languages:** Java, JavaScript, Python, C, C++
-*  **Web Development:**
-    * **Frontend:** HTML/CSS/JavaScript, React
-    * **Backend:** Express, Node.js
-    * **Database:** MySQL, MongoDB, Mongoose, Prisma
-    * **Deployment:** Heroku
-
 
 Here is a list of my skill sets:
 
