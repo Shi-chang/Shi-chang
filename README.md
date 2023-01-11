@@ -3,7 +3,7 @@ Hi, welcome to my github! 👋👋👋
 
 My name is Shichang Ye. I am a MSCS student at Northeastern University (expected to graduate in December 2023).
 
-I am energetic, efficient and have a strong sense of responsibility and ownership. When working on group projects, I am always one of the most reliable members and I enjoy the role. I look forward to working with you.
+As a person who is energetic, and efficient and has a strong sense of responsibility and ownership, I am always one of the most reliable members when working with a group of people. I am interested in software development jobs.
 
 ### 2. My skillsets
 Here is a list of my skillsets:
