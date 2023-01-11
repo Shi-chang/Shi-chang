@@ -28,8 +28,8 @@ Below is a list of courses that I have taken (or are taking):
    * CS 5610 Web Development (CSS, HTML, JavaScript, React, Node.js, Express, MySQL, MongoDB, Prisma, Mongoose)
    * CS 5200 Database Management Systems (Sqlite, MySQL, R, RStudio)
    * CS 5800 Algorithms (Java)
-   * CS 5700 Fundamentals of Computer Networking (Python, ongoing)
-   * CS 5520 Mobile App Development (Java, Kotlin)
+   * CS 5700 Fundamentals of Computer Networking (Python/ongoing)
+   * CS 5520 Mobile App Development (Java, Kotlin/ongoing)
 
 * From online resources:
    * Data Structures and Algorithms
