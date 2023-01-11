@@ -1,7 +1,7 @@
 ### 1. About me
 Hi, welcome to my github! 👋👋👋
 
-My name is Shichang Ye. I’m currently on the MSCS program at Northeastern University, and I'm expected to graduate in Dec. 2023.
+My name is Shichang Ye, a MSCS student at Northeastern University. I'm expected to graduate in December 2023.
 
 I am energetic, efficient and have a strong sense of responsibility and ownership. When working on group projects, I am always one of the most reliable members and I enjoy the role. I look forward to working with you.
 
