@@ -3,20 +3,23 @@ Hi, welcome to my github! 👋👋👋
 
 My name is Shichang Ye. I’m currently on the MSCS program at Northeastern University, and I'm expected to graduate in Dec. 2023.
 
-As shown in the repos, I have developed a full stack web application and some other interesting apps that help build my programming skills.
+I am energetic, efficient and have a strong sense of responsibility and ownership. When working on group projects, I am always one of the most reliable members and I enjoy the role. I look forward to working with you.
 
 Here is a list of my skill sets:
 
 *  **Programming Languages:** Java, JavaScript, Python, C, C++
 *  **Web Development:**
-    * **Frontend:** HTML/CSS/JavaScript, React
-    * **Backend:** Express, Node.js
-    * **Database:** MySQL, MongoDB, Mongoose, Prisma
-    * **Deployment:** Heroku
+    * **Frontend:** React, HTML/CSS/JavaScript
+    * **Backend:** 
+      * **Java**: Spring, Spring MVC, Spring Boot, Spring Data JPA, Spring Security
+      * **JavaScript**: Node.js, Express
+    * **Database and ORM:** MySQL, MongoDB, Mongoose, Prisma
+    * **Testing**: Postman
+    * **Deployment:** AWS
 *  **Data Analysis:**
         R, RStudio
 
-Here is a list of courses that I have taken:
+Below is a list of courses that I have taken (or are taking):
 
 * From the University:
    * CS 5001 Intensive Foundations of CS (Python)
@@ -25,13 +28,19 @@ Here is a list of courses that I have taken:
    * CS 5610 Web Development (CSS, HTML, JavaScript, React, Node.js, Express, MySQL, MongoDB, Prisma, Mongoose)
    * CS 5200 Database Management Systems (Sqlite, MySQL, R, RStudio)
    * CS 5800 Algorithms (Java)
+   * CS 5700 Fundamentals of Computer Networking (Python, ongoing)
+   * CS 5520 Mobile App Development (Java, Kotlin)
 
 * From online resources:
-   * MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
    * Data Structures and Algorithms
    * Database with MySQL
+   * Java Web Development
+   * Introduction to the Spring, Spring MVC and MyBatis Framework
+   * Introduction to SpringBoot2
+   * MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
+   * Building Real-Time REST APIs with Spring Boot - Blog App
 
-### Contact Me
+### Contact
 Email: ye.shic@northeastern.edu
 
 LinkedIn: https://linkedin.com/in/shichang-ye-276668245
