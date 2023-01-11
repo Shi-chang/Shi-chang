@@ -1,12 +1,12 @@
-### About Me
+### 1. About me
 Hi, welcome to my github! 👋👋👋
 
 My name is Shichang Ye. I’m currently on the MSCS program at Northeastern University, and I'm expected to graduate in Dec. 2023.
 
 I am energetic, efficient and have a strong sense of responsibility and ownership. When working on group projects, I am always one of the most reliable members and I enjoy the role. I look forward to working with you.
 
-Here is a list of my skill sets:
-
+### 2. My skillsets
+Here is a list of my skillsets:
 *  **Programming Languages:** Java, JavaScript, Python, C, C++
 *  **Web Development:**
     * **Frontend:** React, HTML/CSS/JavaScript
@@ -19,8 +19,8 @@ Here is a list of my skill sets:
 *  **Data Analysis:**
         R, RStudio
 
+### 3. Courses that I have taken
 Below is a list of courses that I have taken (or are taking):
-
 * From the University:
    * CS 5001 Intensive Foundations of CS (Python)
    * CS 5004 Object Oriented Design (Java)
@@ -40,7 +40,7 @@ Below is a list of courses that I have taken (or are taking):
    * MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
    * Building Real-Time REST APIs with Spring Boot - Blog App
 
-### Contact
+### 4. Contact
 Email: ye.shic@northeastern.edu
 
 LinkedIn: https://linkedin.com/in/shichang-ye-276668245
