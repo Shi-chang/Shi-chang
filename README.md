@@ -17,7 +17,7 @@ Here is a list of my skillsets:
     * **Testing**: Postman
     * **Deployment:** AWS
 *  **Data Analysis:**
-        R, RStudio
+        Tableau, R, RStudio
 
 ### 3. Courses that I have taken
 Below is a list of courses that I have taken (or are taking):
