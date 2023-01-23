@@ -39,6 +39,7 @@ Below is a list of courses that I have taken (or are taking):
    * Introduction to SpringBoot2
    * MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
    * Building Real-Time REST APIs with Spring Boot - Blog App
+   * Python and Tableau: The Complete Data Analytics Bootcamp
 
 ### 4. Contact
 Email: ye.shic@northeastern.edu
