@@ -7,7 +7,9 @@ As a person who is energetic, and efficient and has a strong sense of responsibi
 
 ### 2. My skillsets
 Here is a list of my skillsets:
-*  **Programming Languages:** Java, JavaScript, Python, C, C++
+*  **Programming Languages:** Java, JavaScript, Python, C, C++, R
+*  **Data Analysis:**
+        RStudio, Tableau, Origin
 *  **Web Development:**
     * **Frontend:** React, HTML/CSS/JavaScript
     * **Backend:** 
@@ -16,8 +18,6 @@ Here is a list of my skillsets:
     * **Database and ORM:** MySQL, MongoDB, Mongoose, Prisma
     * **Testing**: Postman
     * **Deployment:** AWS
-*  **Data Analysis:**
-        Tableau, R, RStudio
 
 ### 3. Courses that I have taken
 Below is a list of courses that I have taken (or are taking):
